@@ -9,3 +9,5 @@ int GetDistinctRealRootCount(double a, double b, double c);
 
 Начать работу вы можете с шаблона, который содержит наш фреймворк юнит-тест и заготовку функции *GetDistinctRealRootCount*.
 
+[test_equation.cpp](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%202/Practice%20Programming%20Assignment%201/test_equation.cpp)
+
