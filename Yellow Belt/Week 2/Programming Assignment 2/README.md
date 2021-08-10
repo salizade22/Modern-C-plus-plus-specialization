@@ -24,7 +24,7 @@ public:
 
 Начать работу вы можете с шаблона, который содержит наш фреймворк юнит-тестов и заготовку класса Rational.
 
-test_rational.cpp
+[test_rational.cpp](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%202/Programming%20Assignment%202/test_rational.cpp)
 
 ##### Примечание #####
 Перед отправкой вашего файла убедитесь, что он не содержит класса Rational. В противном случае вы получите ошибку компиляции. Наша тестирующая система умеет игнорировать функции в файлах (поэтому, например, в задаче "Тесты для функции IsPalindrom" необязательно удалять функцию IsPalindrom), но не умеет это делать для классов.
