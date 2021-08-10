@@ -3,7 +3,7 @@
 
 Начать работу вы можете с шаблона, который содержит наш фреймворк юнит-тестов и заготовку класса.
 
-test_person.cpp
+[test_person.cpp](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%202/Practice%20Programming%20Assignment%202/test_person.cpp)
 
 ##### Условие задачи «Имена и фамилии — 1» #####
 Реализуйте класс для человека, поддерживающий историю изменений человеком своих фамилии и имени. 
