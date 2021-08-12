@@ -31,4 +31,4 @@
 
 Заготовка файла *main.cpp*:
 
-main.cpp
+[main.cpp](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%203/Programming%20Assignment%203/main.cpp)
