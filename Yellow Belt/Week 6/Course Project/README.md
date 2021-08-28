@@ -200,3 +200,30 @@ Removed 2 entries
 2017-11-20 Monday
 No entries
 ```
+#### Заготовки файлов ####
+
+[token.h](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%206/Course%20Project/Source/token.h)
+
+[token.cpp](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%206/Course%20Project/Source/token.cpp)
+
+[condition_parser.h](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%206/Course%20Project/Source/condition_parser.h)
+
+[condition_parser.cpp](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%206/Course%20Project/Source/condition_parser.cpp)
+
+[condition_parser_test.cpp](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%206/Course%20Project/Source/condition_parser_test.cpp)
+
+[main.cpp](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%206/Course%20Project/Source/main.cpp)
+
+Обратите внимание, что в файле _main.cpp_ мы используем наш фреймворк юнит-тестов, для тестирования функций _ParseCondition_ и _ParseEvent_. В процессе работы над проектом вы можете разрабатывать свои тесты и добавлять их в функцию _TestAll_ .
+
+#### Подсказки ####
+
+Для этой задачи есть набор подсказок, которые должны помочь вам с решением. Если вам не удаётся решить задачу и вы чувствуете, что у вас кончились идеи, вы можете ими воспользоваться. Но сначала обязательно попробуйте решить задачу без подсказок.
+
+[Подсказка 1.pdf](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%206/Course%20Project/Hints/1.pdf)
+
+[Подсказка 2.pdf](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%206/Course%20Project/Hints/2.pdf)
+
+[Подсказка 3.pdf](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%206/Course%20Project/Hints/3.pdf)
+
+[Подсказка 4.pdf](https://github.com/salizade22/Modern-C-plus-plus-specialization/blob/main/Yellow%20Belt/Week%206/Course%20Project/Hints/4.pdf)
